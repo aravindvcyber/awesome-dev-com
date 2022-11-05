@@ -37,14 +37,21 @@ My discord profile: Cool Cyber#4799
 
 [![Watch Video in youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0i3e9q4ffehk0kchsow4.png)](https://www.youtube.com/watch?v=a1AOzl28Qn0)
 
+![figma components for card, uploads](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/560bskhw1aos7i93l2gi.png)
+
+
+![file upload gif](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2fyokeh28871gfodygc.gif)
+
 ## Pending work
 
-1) react control did not render for the file upload(which delayed the initial video release)
-2) besides this the rest of the features are for enriching the ecosystem
-Multiple communities are registered
-Multiple users can work between communities
-A page for every event/faqs with banners
-Users can post on every page, and others could comment
-Live interaction with community members other integrations
+
+1) besides this the rest of the features are for enriching the ecosystem
+2)Multiple communities are registered
+3)Multiple users can work between communities
+4)A page for every event/faqs with banners
+5)Users can post on every page, and others could comment
+6)Live interaction with community members other integrations
+
+https://devpost.com/software/dev-com
 
 
