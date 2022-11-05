@@ -8,19 +8,41 @@ Here user community will be hosting events, and developers use to submit the CFP
 Soon this ecosystem is expected to bring more communities and it is easier to securely share their assets with this serverless solution. 
 ## What it does
 
+This app currently help users to submit CFP and communities could review them in realtime
+
 ## How we built it
-This project is built using amplify studio, figma with low code as much as possible. Besides this it also will use React, Typescript and Aws CDK to scale up
+This project is built using amplify studio, figma with low code as much as possible. Besides this it also will use React, Typescript and Aws CDK to scale up and highly extendible
+
 ## Challenges we ran into
 Mainly the timeline of this hackathon only gave us couple of weekend most of which is during holiday season, so I have to this very quick starting from prototyping to amplify studio besides the react code wiring in a short time
+
 ## Accomplishments that we're proud of
 It is a great opportunity to learn by doing hand-son and share our progress with the community.
 
 ## What we learned
 I am getting confident everyday with figma and amplify studio in building this react based, graphql powered dashboard
+
 ## What's next for DEV COM
 As I mentioned already wanted to make this a central repo for multiple developer communities to interact with their users.
 
 Due to time constraints as a single dev, I could only make one part of this puzzle with minor refinements, and simple data transformations pending
-TBU
 
-VIDEO to be updated in few hours
+## DEV site link will be provided for review in discord for someone to check, they could use them once i grant roles to screen with their google signin
+
+ My discord profile: Cool Cyber#4799
+
+## Click the image below to watch video in youtube
+
+[![Watch Video in youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0i3e9q4ffehk0kchsow4.png)](https://www.youtube.com/watch?v=a1AOzl28Qn0)
+
+## Pending work
+
+1) react control not render for the file upload(which delayed the initial video release)
+2) besides this the rest of the features are for enriching the ecosystem
+Multiple communities be registered
+Multiple users can work between communities
+Page for every event/faqs
+users can post in every page, and other could comment
+live interaction with community members other integrations
+
+
