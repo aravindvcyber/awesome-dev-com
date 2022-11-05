@@ -54,4 +54,7 @@ My discord profile: Cool Cyber#4799
 
 https://devpost.com/software/dev-com
 
+![data modelling in studio](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7yf0wxo229ael8thrhye.gif)
+
+![amplify components low code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9t5w78spik0arqho6uig.gif)
 
