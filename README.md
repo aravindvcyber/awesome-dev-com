@@ -33,9 +33,14 @@ Will be provided for review in discord for someone to check, they could use them
 
 My discord profile: Cool Cyber#4799
 
-## Click the image below to watch the video on youtube
+## Click the image below to watch the dev video on youtube
 
 [![Watch Video in youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0i3e9q4ffehk0kchsow4.png)](https://www.youtube.com/watch?v=a1AOzl28Qn0)
+
+
+## Click the image below to watch the CFP workflow video on youtube
+[![Watch CFP workflow video in youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezo3wsrztsssjnzp5npe.png)](https://youtu.be/A7BBcyxJB08)
+
 
 ![figma components for card, uploads](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/560bskhw1aos7i93l2gi.png)
 
