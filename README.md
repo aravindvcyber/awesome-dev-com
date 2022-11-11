@@ -3,15 +3,22 @@
 ## Inspiration
 This project is built to provide a common platform for developers and communities to engage and interact with each other. Here an amplify web dashboard is built to centrally manage the interactions of developers with the peer communities. This ecosystem is expected to house a lot of discussions in real time. For the benefit of time one use case is taken to unite the developer with the community and to bring accountability.
 
-Here user community will be hosting events, and developers use to submit the CFP for being part of the sessions. The discussions are captured in the dashboard and this could be scaled up well both by the developers and the communities.
+Yes every community has a way distinct tool set for interaction, but it varies in terms of features and new communities have to find a way to build their own suite or use free/subscription based services and could not bootstrap to scale in the initial phase. The same goes for developers, they don't find a common place for collaboration with communities and often use social media and other tools to start.
 
-Soon this ecosystem is expected to bring more communities and it is easier to securely share their assets with this serverless solution. 
 ## What it does
 
 This app currently helps users to submit CFP and communities could review them in real-time
 
+
+Here user community will be hosting events, and developers use to submit the CFP for being part of the sessions. The discussions are captured in the dashboard and this could be scaled up well both by the developers and the communities.
+
+Soon this ecosystem is expected to bring more communities and it is easier to securely share their assets with this serverless solution. 
+
 ## How we built it
 This project is built using amplify studio, figma with low code as possible. Besides this, it also will use React, Typescript, and Aws CDK to scale up and highly extendible
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nt1c6e8eyrq52vq2sulk.jpeg)
+
 
 ## Challenges we ran into
 Mainly the timeline of this hackathon only gave us a couple of weekends most of which is during the holiday season, so I have to do this very quickly starting from prototyping to amplifying studio beside the react code wiring in a short time
